@@ -2,8 +2,9 @@
 
 🔭 I'm currently on my journey in [school 42](https://42yerevan.am/) \
 
-href="https://symatevo.me/"><img src="https://img.shields.io/badge/vamosgs.me-website-lightgrey?style=flat-square&logo=Accenture"/
-![Screenshot](image)
+<p align="center"> 
+	<a align="center" href="https://symatevo.me/"><img src="https://img.shields.io/badge/vamosgs.me-website-lightgrey?style=flat-square&logo=Accenture"/></a>
+</p>
 
 <!--
 **symatevo/symatevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
