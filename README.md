@@ -4,7 +4,7 @@
 👾 I'm majoring in bioinformatics \
 📫 How to reach me: syuzi.matevosyan1802@gmail.com 
 
-![42's achievements](https://github.com/[symatevo]/[symatevo]/blob/[images]/Screen Shot 2023-08-03 at 5.56.20 PM.jpg?raw=true)
+![42's achievements](https://github.com/[symatevo]/[symatevo]/blob/[images]/image.jpg?raw=true)
 
 <!--
 **symatevo/symatevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
