@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently on my journey in [school 42]([url](https://42yerevan.am)) \
+🔭 I'm currently on my journey in [school 42]([url](https://42yerevan.am/))
 👾 I'm studying bioinformatics \
 💬 Ask me if you need any help \
 📫 How to reach me: syuzi.matevosyan1802@gmail.com 
