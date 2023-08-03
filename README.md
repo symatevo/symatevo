@@ -3,8 +3,8 @@
 🔭 I'm currently on my journey in [school 42](https://42yerevan.am/) 
 
 ### 🛠 &nbsp;Languages and Tools
-[biophython](https://upload.wikimedia.org/wikipedia/commons/1/13/Biopython_logo.png)
-[python](https://www.ntuclearninghub.com/documents/51786/4216795/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476?t=1679043970578)
+![biophython](https://upload.wikimedia.org/wikipedia/commons/1/13/Biopython_logo.png)
+![python](https://www.ntuclearninghub.com/documents/51786/4216795/Python-Symbol.png/369e410e-a90f-f887-c2dc-61f7ef761476?t=1679043970578)
 ### 🌌  &nbsp; 42's achievements
 ![Screenshot](image)
 <!--
