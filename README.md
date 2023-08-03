@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 🔭 I'm currently on my journey in [school 42](https://42yerevan.am/) \
-👾 I'm studying bioinformatics \
-💬 Ask me if you need any help \
+👾 I'm majoring in bioinformatics \
 📫 How to reach me: syuzi.matevosyan1802@gmail.com 
 
 <!--
