@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 🔭 I'm currently on my journey in [school 42](https://42yerevan.am/) \
-👾 I'm majoring in bioinformatics \
-📫 How to reach me: syuzi.matevosyan1802@gmail.com 
 
+href="https://symatevo.me/"><img src="https://img.shields.io/badge/vamosgs.me-website-lightgrey?style=flat-square&logo=Accenture"/
 ![Screenshot](image)
 
 <!--
