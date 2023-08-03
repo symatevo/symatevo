@@ -3,7 +3,7 @@
 🔭 I'm currently on my journey in [school 42](https://42yerevan.am/) \
 
 ### 🌌  &nbsp; 42's achievements
-![Screenshot](image.png)
+![Screenshot](image)
 <!--
 **symatevo/symatevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
