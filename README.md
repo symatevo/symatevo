@@ -3,7 +3,7 @@
 🔭 I'm currently on my journey in [school 42](https://42yerevan.am/) 
 
 ### 🛠 &nbsp;Languages and Tools
-#### ⚫ C/C++ 
+#### ⚫ C / C++ 
 #### 🔵 Python / Jupyter Notebook 
 #### ⚪ Dockerfile / Makefile / Shell
 
