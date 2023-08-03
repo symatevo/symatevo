@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 🔭 I'm currently on my journey in [school 42](https://42yerevan.am/) \
 
