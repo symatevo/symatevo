@@ -31,7 +31,7 @@ Successfully completed [school 42](https://42yerevan.am/)
 		massive load of work demanded by the program.
 
 
-### 🌌  &nbsp; 42's achievements
+## 🌌  &nbsp; 42's achievements
 ![Screenshot](image)
 <!--
 **symatevo/symatevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
