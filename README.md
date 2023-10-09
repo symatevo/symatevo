@@ -1,6 +1,4 @@
-<h1>Hi there 👋</h1>
-
-🔭 Successfully completed [school 42](https://42yerevan.am/) 
+Successfully completed [school 42](https://42yerevan.am/) 
 
 ## 🛠️ Skills developed at 42cursus
 
