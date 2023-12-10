@@ -21,7 +21,7 @@
 <p align="left">
   <a href="https://github.com/symatevo">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-Signal-Classification&theme=react"/> 
-    <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
+    <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=DMD-Cardiomyocyte-Analysis&theme=react"/>
     <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
     <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
   </a> 
