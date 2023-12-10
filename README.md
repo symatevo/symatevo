@@ -24,8 +24,8 @@
 
 <p align="left">
 <a href="https://github.com/vamosgs">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=symatevo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=symatevo&layout=compact&langs_count=8&theme=react"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=symatevo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=symatevo&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 </br>
