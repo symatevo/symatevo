@@ -8,6 +8,15 @@
 <br>
 <br>
 
+### 👩‍🔬 &nbsp; About me
+
+- BSc Biophysics and Bioinformatics in [Yerevan State University](https://www.ysu.am/en).
+
+- Graduate of Computer Science in [42 Coding School](https://42yerevan.am/).
+
+
+<br>
+
 ### 🧬 &nbsp; Projects Overview
 <p align="left">
   <a href="https://github.com/symatevo">
