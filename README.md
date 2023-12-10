@@ -11,9 +11,9 @@
 ### 🧬 &nbsp; Projects Overview
 <p align="left">
   <a href="https://github.com/symatevo">
-    <img height="60em" src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
-    <img height="60em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
-    <img height="60em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=mt_dna&theme=react"/>
+    <img height="90em" src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
+    <img height="90em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
+    <img height="90em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=mt_dna&theme=react"/>
   </a> 
 </p>
 
@@ -24,8 +24,8 @@
 
 <p align="left">
 <a href="https://github.com/vamosgs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=symatevo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=symatevo&layout=compact&langs_count=8&theme=react"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=symatevo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=symatevo&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 </br>
