@@ -1,50 +1,32 @@
-Successfully completed [school 42](https://42yerevan.am/) 
+<h1 align="center">Syuzanna Matevosyan</h1>
+<h3 align="center">Bioinformatics | Biomedical Engineering </h3>
+	
+<p align="center"> 
+	<a align="center" href="https://www.linkedin.com/in/symatevo/"><img src="https://img.shields.io/badge/-symatevo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+	<a href="mailto:syuzi.matevosyan1802@gmail.com"><img src="https://img.shields.io/badge/-syuzi.matevosyan1802@gmail.com-026dbd?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>  
+<br/>
+<br/>
 
-## 🛠️ Skills developed at 42cursus
+### 🧬 &nbsp; Projects Overview
+<p align="left">
+<a href="https://github.com/symatevo">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
+  <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
+  <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=mt_dna&theme=react"/>
 
-### Hard-skills
-
-	* C/C++ language, Makefile
-	* Shell scripting
-	* Git
-	* Networks
-	* Docker
-	* Web (HTML, CSS, Wordpress)
-	* Computer graphics
-
-### Soft-skills
-
-	# Self-learning and proactivity
-		At 42, self-learning is at the core of its peer to peer learning methodology. There
-		are no teachers whatsoever; the learning process is based on googling, enquiring
-		your classmates, and empirical knowledge, each student learning at their own pace.
-
-	# Teamwork
-		Some projects must or should be developed in groups, which promotes collaborative
-		work among cadets. The major challenge here is to equalize the different knowledge
-		levels while finding a common work methodology that allows all team members to
-		contribute to the project.
-
-	# Time management and resiliency
-		The school is open 24/7. Thus, the cadets are free to work whenever they want, which
-		demands excellent time management skills and resiliency for not "drowning" amid the
-		massive load of work demanded by the program.
+</a> 
+</p>
 
 
-## 🌌  &nbsp; 42's achievements
-![Screenshot](image)
-<!--
-**symatevo/symatevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### ⚙️ &nbsp; Github Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://github.com/vamosgs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=symatevo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=symatevo&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
 
