@@ -11,9 +11,9 @@
 ### 🧬 &nbsp; Projects Overview
 <p align="left">
   <a href="https://github.com/symatevo">
-    <img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
-    <img height="80em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
-    <img height="80em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=mt_dna&theme=react"/>
+    <img height="95em" src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
+    <img height="95em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=EMG-data&theme=react"/>
+    <img height="95em"  src="https://github-readme-stats.vercel.app/api/pin/?username=symatevo&repo=mt_dna&theme=react"/>
   </a> 
 </p>
 
