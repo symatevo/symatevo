@@ -5,8 +5,8 @@
 	<a align="center" href="https://www.linkedin.com/in/symatevo/"><img src="https://img.shields.io/badge/-symatevo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 	<a href="mailto:syuzi.matevosyan1802@gmail.com"><img src="https://img.shields.io/badge/-syuzi.matevosyan1802@gmail.com-026dbd?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>  
-<br/>
-<br/>
+<br>
+<br>
 
 ### 🧬 &nbsp; Projects Overview
 <p align="left">
@@ -29,4 +29,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=symatevo&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
-<br/>
+</br>
