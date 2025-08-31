@@ -1,5 +1,5 @@
 <h1 align="center">Syuzanna Matevosyan</h1>
-<h3 align="center">Bioinformatics | Biomedical Engineering </h3>
+<h3 align="center">Biomedical Engineering </h3>
 	
 <p align="center"> 
 	<a align="center" href="https://www.linkedin.com/in/symatevo/"><img src="https://img.shields.io/badge/-symatevo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -9,6 +9,8 @@
 <br>
 
 ### 👩‍🔬 &nbsp; About me
+
+- Currently MSc Erasmus Mundus in Biomedical Engineering at Serbia, Greece and Romania
 
 - BSc Biophysics and Bioinformatics in [Yerevan State University](https://www.ysu.am/en).
 
